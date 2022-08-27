@@ -9,7 +9,8 @@ Home page
 3.![home2](https://user-images.githubusercontent.com/89126653/187047093-bb2563d0-aa88-4127-9d4f-e7f9cbd8cc5c.JPG)
 Home page
 
-4.![appointment](https://user-images.githubusercontent.com/89126653/187047108-94a1f1a2-5e6e-41b9-ba6e-f307bdb86026.JPG)
+4.![appoint](https://user-images.githubusercontent.com/89126653/187047182-8abbcde4-40e0-49c6-94ab-98e745ab2db9.JPG)
+
 Appointment page
 
 
