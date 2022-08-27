@@ -1,0 +1,135 @@
+.heading{
+    background-color: rgb(26, 0, 129);
+    color: white;
+    height: 10rem;
+}
+.welcome{
+    font-size: 40px;
+    font-weight: lighter;
+    margin-left: 10%;
+    margin-top: 2%;
+    display: inline-block;
+   
+}
+.dr{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.designation{
+    margin-left: 10%;
+    font-weight: lighter;
+    
+}
+.details-size{
+    height: 30rem;
+
+}
+.column-2{
+    
+    height: 100rem;
+}
+.row1{
+    height: 15rem;
+    border-radius: 5px;
+    background-color: rgb(215, 229, 249);
+}
+
+.totalEarning{
+    border-radius: 5px;
+    height: 6rem;
+    padding-top: 1rem;
+    background-color: rgba(255, 255, 255, 0.982);
+    box-shadow: 0 5px grey;
+   
+   
+}
+
+.unit{
+    width: 9rem;
+    margin-left: 12rem;
+}
+.timeduration{
+    width: 9rem;
+    margin-left: 2rem;
+}
+ul{
+    list-style: none;
+}
+li{
+    float: left;
+}
+.scheduleLi{
+    float: none;
+}
+
+.navbar{
+    display: block;
+}
+.navbar-icon{
+    color:grey;
+    width: 100%;
+}
+
+.navbar-icon:hover{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(243, 94, 94);
+}
+
+.column-1{
+    background-color: rgb(26, 0, 129);
+}
+
+.appointement{
+    padding-top: 1.2rem;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.activity{
+   position: absolute;
+   top: 2rem;
+    height: 100%;
+    background-color: white;
+    
+}
+.act-logo{
+    width: 9rem;
+    height: 5rem;
+    padding-right: 2rem 2rem;
+}
+.bell{
+    margin-left: 2rem;
+    color: rgb(80, 80, 221);
+}
+
+.app-schedule{
+    margin-top: 5%;
+}
+.schedule-heading{
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 5%;
+}
+.history{
+    border:1px solid rgb(216, 213, 213);
+    border-radius: 5px;
+    margin-top: 5%;
+    width: 100%;
+    height: 20rem;
+}
+.graphImg{
+    width: 100%;
+    height: 80%;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 10%;
+    height: 5%;
+}
+.inputName{
+    width: 5rem;
+}

@@ -1,0 +1,38 @@
+.login{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+}
+
+#names{
+    margin-top: 1rem;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    margin-bottom: 2rem;
+    width: 20rem;
+}
+#password{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    margin-bottom: 2rem;
+    width: 20rem;
+}
+
+#unitName-select{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    margin-bottom: 2rem;
+    width: 20rem;
+}
+
+#sign{
+    padding: 10px 10px;
+    border-radius: 10px;
+    width: 20rem;
+    color: white;
+    background-color: rgb(234, 37, 37);
+    border: 1px solid rgb(234, 37, 37);
+}

@@ -1,0 +1,97 @@
+.addBtn{
+   float: right;
+    height: 100%;
+  
+    
+}
+.booked{
+    color: grey;
+   margin-top: 19px;
+   display: inline-block;
+}
+.booking{
+    height: 3rem;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+    padding-right: 5rem;
+}
+
+.inputFields{
+    margin-top: 2rem;
+}
+
+#name{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+   
+}
+#date{
+    
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    width: 12rem;
+}
+#type{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    width: 12rem;
+}
+#status{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    width: 12rem;
+}
+#invoice{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    width: 12rem;
+}
+
+.table-heading{
+    border-bottom: 1px solid skyblue;
+}
+
+.ulList{
+    padding-left: 20px;
+    display: flex;
+   justify-content: space-around;
+    padding-right: 10px;
+}
+.liList{
+    position: relative;
+}
+
+label{
+    position:absolute;
+    top:-10px;
+    left: 10px;
+    background-color: white;
+}
+
+.table-th ,.table-td{
+    padding:10px 40px;
+    font-weight: normal;
+}
+
+.table-border{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.t-hading-bg{
+    background-color: skyblue;
+    
+}
+table{
+    width: 100%;
+}
+
+.columns-1{
+    background-color: rgb(26, 0, 129);
+    padding-top: 6rem;
+}
